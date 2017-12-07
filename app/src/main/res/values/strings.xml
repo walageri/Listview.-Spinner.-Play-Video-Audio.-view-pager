@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Multiple Scren1.3</string>
+    <string name="Customspinner">CUSTOM SPINNER</string>
+    <string name="customlist">CUSTOM LIST</string>
+    <string name="Viewpager">View Pager</string>
+    <string name="Video">Video</string>
+    <string name="isipesan">Masukan Keluhan Anda</string>
+    <string name="makanan">Nama Makanan</string>
+    <string name="alpukat">alpukat adalah :</string>
+    <string name="apel">Apel adalah:</string>
+    <string name="ceri">Seri adalah:</string>
+    <string name="durian">durian adalah:</string>
+    <string name="jambuair">Jambu air adalah:</string>
+    <string name="manggis">Manggis adalah:</string>
+    <string name="strawberi">Strawbery adalah:</string>
+    <string name="toas">pesan Toast</string>
+</resources>
